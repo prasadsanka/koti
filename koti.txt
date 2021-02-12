@@ -8,3 +8,5 @@ venkatesh
 sai ram
 sudeer
 surandra
+python is a interpreter language
+it is a dynamical type
